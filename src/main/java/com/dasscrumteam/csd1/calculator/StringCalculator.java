@@ -1,5 +1,5 @@
 // src/main/java/com/dasscrumteam/csd1/calculator/StringCalculator.java
-package com.dasscrumteam.csd1.calculator
+package com.dasscrumteam.csd1.calculator;
 
 public class StringCalculator {
     public int add(String numbers) {
