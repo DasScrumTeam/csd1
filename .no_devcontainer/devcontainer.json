@@ -1,0 +1,16 @@
+{
+	"name": "IntelliJ Dev Container",
+	"dockerFile": "Dockerfile",
+	"context": ".",
+	"remoteEnv": {
+		"JAVA_OPTS": "-XX:UseSVE=0"
+	},
+	"forwardPorts": [
+		22,      // SSH for IntelliJ Remote Development
+		63342,   // IntelliJ HTTP services (e.g., debugging)
+		8087,    // Example: Application development port
+		5005     // Example: Remote debugging port for Java apps
+	],
+	"postCreateCommand": "java -version",
+	"remoteUser": "root"
+}

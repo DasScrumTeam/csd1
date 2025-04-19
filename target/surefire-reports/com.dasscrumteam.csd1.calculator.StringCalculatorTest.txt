@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.dasscrumteam.csd1.calculator.StringCalculatorTest
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.154 s -- in com.dasscrumteam.csd1.calculator.StringCalculatorTest
