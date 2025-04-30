@@ -5,21 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a8a67b42-327e-4339-bb76-9417ff0fcb2b" name="Changes" comment="Gherkin Acceptance Test&#10;Refactoring with MVC pattern">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dasscrumteam/csd1/calculator/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dasscrumteam/csd1/calculator/CalculatorApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dasscrumteam/csd1/calculator/CalculatorController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dasscrumteam/csd1/calculator/CalculatorView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dasscrumteam/csd1/calculator/ConsoleCalculatorView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dasscrumteam/csd1/calculator/StringCalculatorFormatter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/dasscrumteam/csd1/calculator/CommandLineTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/dasscrumteam/csd1/calculator/StringCalculatorFormatterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/dasscrumteam/csd1/calculator/TestCalculatorView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/runner/CucumberTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/steps/CalculationSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/Calculator.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Snippets/Snippets.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dasscrumteam/csd1/calculator/StringCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dasscrumteam/csd1/calculator/StringCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,6 +77,9 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices",
     "vue.rearranger.settings.migration": "true"
   }
@@ -106,7 +95,7 @@
       <recent name="com.dasscrumteam.csd1.calculator" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CalculatorApp">
+  <component name="RunManager" selected="Cucumber Java.Feature: Calculator">
     <configuration name="CalculatorApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.dasscrumteam.csd1.calculator.CalculatorApp" />
       <module name="agile-engineering-practices" />
@@ -248,8 +237,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CalculatorApp" />
         <item itemvalue="Cucumber Java.Feature: Calculator" />
+        <item itemvalue="Application.CalculatorApp" />
         <item itemvalue="JUnit.StringCalculatorTest.shouldReturnZeroForEmptyString" />
         <item itemvalue="JUnit.StringCalculatorTest" />
         <item itemvalue="JUnit.StringCalculatorFormatterTest" />
@@ -275,8 +264,41 @@
       <workItem from="1745654896368" duration="3279000" />
       <workItem from="1745830038888" duration="18261000" />
       <workItem from="1745923819096" duration="2416000" />
-      <workItem from="1745926578163" duration="20990000" />
+      <workItem from="1745926578163" duration="21404000" />
     </task>
+    <task id="LOCAL-00001" summary="Gherkin Acceptance Test&#10;Refactoring with MVC pattern">
+      <option name="closed" value="true" />
+      <created>1746049504629</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1746049504629</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Gherkin Acceptance Test&#10;Refactoring with MVC pattern">
+      <option name="closed" value="true" />
+      <created>1746049563480</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1746049563480</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Gherkin Acceptance Test&#10;Refactoring with MVC pattern">
+      <option name="closed" value="true" />
+      <created>1746049681203</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1746049681203</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Gherkin Acceptance Test&#10;Refactoring with MVC pattern">
+      <option name="closed" value="true" />
+      <created>1746049723844</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1746049723844</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
