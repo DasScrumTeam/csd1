@@ -1,10 +1,8 @@
 // src/main/java/com/dasscrumteam/csd1/calculator/StringCalculator.java
 package com.dasscrumteam.csd1.calculator;
 
-import java.util.Arrays;
 
-
-public class StringCalculator {
+public class StringCalculator implements Calculator {
     public Double calc(String numbers) {
         // TDD exercise: Implement string calculator kata
         try {
