@@ -11,7 +11,7 @@ public class CalculatorController {
 
     public void run() {
         String input = view.getInput();
-6        Double result = calculator.calc(input);
+6       Double result = calculator.calc(input);
         view.showResult(result);
     }
 }
