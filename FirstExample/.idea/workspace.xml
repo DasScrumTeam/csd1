@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a8a67b42-327e-4339-bb76-9417ff0fcb2b" name="Changes" comment="Gherkin Acceptance Test&#10;Refactoring with MVC pattern">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dasscrumteam/csd1/calculator/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dasscrumteam/csd1/calculator/CalculatorApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dasscrumteam/csd1/calculator/CalculatorController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dasscrumteam/csd1/calculator/CalculatorView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dasscrumteam/csd1/calculator/ConsoleCalculatorView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dasscrumteam/csd1/calculator/StringCalculatorFormatter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/dasscrumteam/csd1/calculator/CommandLineTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/dasscrumteam/csd1/calculator/StringCalculatorFormatterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/dasscrumteam/csd1/calculator/TestCalculatorView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/runner/CucumberTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/steps/CalculationSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/Calculator.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Snippets/Snippets.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/dasscrumteam/csd1/calculator/StringCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dasscrumteam/csd1/calculator/StringCalculator.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="php" />
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2wG56ZB5TjTALyDh8RGYVCCg7Pc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.CalculatorApp.executor": "Run",
+    "Application.CommandLineProcessor.executor": "Run",
+    "Cucumber Java.Feature: Calculator.executor": "Run",
+    "Cucumber Java.Scenario: User enters real calculation with real result.executor": "Run",
+    "Cucumber Java.Scenario: User enters real number calculation with integer result.executor": "Run",
+    "Cucumber Java.Scenario: User enters simple calculation.executor": "Run",
+    "JUnit.CommandLineTest.test.executor": "Run",
+    "JUnit.CommandLineTest.testItHasACommandLineProcessor.executor": "Run",
+    "JUnit.CucumberTest.executor": "Run",
+    "JUnit.StringCalculatorFormatterTest.executor": "Run",
+    "JUnit.StringCalculatorFormatterTest.testFormatDoubleResult.executor": "Run",
+    "JUnit.StringCalculatorFormatterTest.testFormatIntegerResult.executor": "Run",
+    "JUnit.StringCalculatorTest.executor": "Run",
+    "JUnit.StringCalculatorTest.shouldReturnOneForOne.executor": "Run",
+    "JUnit.StringCalculatorTest.shouldReturnOneForOneString.executor": "Run",
+    "JUnit.StringCalculatorTest.shouldReturnThreeForOneAndHalfPlusOneAndHalf.executor": "Run",
+    "JUnit.StringCalculatorTest.shouldReturnTwoForOnePlusOne.executor": "Run",
+    "JUnit.StringCalculatorTest.shouldReturnTwoForTwo.executor": "Run",
+    "JUnit.StringCalculatorTest.shouldReturnZeroForEmptyString.executor": "Run",
+    "JUnit.StringCalculatorTest.shouldReturnZeroForInvalidCalculation.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "full.screen.before.presentation.mode": "true",
+    "git-widget-placeholder": "FirstSteps",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/andreasschliep/code/DasScrumTeam/csd1/FirstExample",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.dasscrumteam.csd1.calculator" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.dasscrumteam.csd1.calculator" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.CalculatorApp">
+    <configuration name="CalculatorApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dasscrumteam.csd1.calculator.CalculatorApp" />
+      <module name="agile-engineering-practices" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dasscrumteam.csd1.calculator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: Calculator" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/Calculator.feature" />
+      <option name="GLUE" value="steps" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="agile-engineering-practices" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: Calculator" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringCalculatorFormatterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="agile-engineering-practices" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dasscrumteam.csd1.calculator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.dasscrumteam.csd1.calculator" />
+      <option name="MAIN_CLASS_NAME" value="com.dasscrumteam.csd1.calculator.StringCalculatorFormatterTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringCalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="agile-engineering-practices" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dasscrumteam.csd1.calculator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.dasscrumteam.csd1.calculator" />
+      <option name="MAIN_CLASS_NAME" value="com.dasscrumteam.csd1.calculator.StringCalculatorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringCalculatorTest.shouldReturnZeroForEmptyString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="agile-engineering-practices" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dasscrumteam.csd1.calculator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.dasscrumteam.csd1.calculator" />
+      <option name="MAIN_CLASS_NAME" value="com.dasscrumteam.csd1.calculator.StringCalculatorTest" />
+      <option name="METHOD_NAME" value="shouldReturnZeroForEmptyString" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="FirstExample" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="FirstExample" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="FirstExample" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Python.FlaskServer">
+      <module name="FirstExample" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="FirstExample" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CalculatorApp" />
+        <item itemvalue="Cucumber Java.Feature: Calculator" />
+        <item itemvalue="JUnit.StringCalculatorTest.shouldReturnZeroForEmptyString" />
+        <item itemvalue="JUnit.StringCalculatorTest" />
+        <item itemvalue="JUnit.StringCalculatorFormatterTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-125ca727e0f0-intellij.indexing.shared.core-IU-243.23654.189" />
+        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-IU-243.23654.189" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a8a67b42-327e-4339-bb76-9417ff0fcb2b" name="Changes" comment="" />
+      <created>1745654895305</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1745654895305</updated>
+      <workItem from="1745654896368" duration="3279000" />
+      <workItem from="1745830038888" duration="18261000" />
+      <workItem from="1745923819096" duration="2416000" />
+      <workItem from="1745926578163" duration="20990000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Gherkin Acceptance Test&#10;Refactoring with MVC pattern" />
+    <option name="LAST_COMMIT_MESSAGE" value="Gherkin Acceptance Test&#10;Refactoring with MVC pattern" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dasscrumteam/csd1/calculator/CalculatorApp.java</url>
+          <line>7</line>
+          <properties class="com.dasscrumteam.csd1.calculator.CalculatorApp" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/com/dasscrumteam/csd1/calculator/StringCalculatorTest.java</url>
+          <line>17</line>
+          <properties class="com.dasscrumteam.csd1.calculator.StringCalculatorTest" method="shouldReturnZeroForEmptyString">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
