@@ -43,47 +43,47 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.CalculatorApp.executor": "Run",
-    "Application.CommandLineProcessor.executor": "Run",
-    "Cucumber Java.Feature: Calculator.executor": "Run",
-    "Cucumber Java.Scenario: User enters real calculation with real result.executor": "Run",
-    "Cucumber Java.Scenario: User enters real number calculation with integer result.executor": "Run",
-    "Cucumber Java.Scenario: User enters simple calculation.executor": "Run",
-    "JUnit.CommandLineTest.test.executor": "Run",
-    "JUnit.CommandLineTest.testItHasACommandLineProcessor.executor": "Run",
-    "JUnit.CucumberTest.executor": "Run",
-    "JUnit.StringCalculatorFormatterTest.executor": "Run",
-    "JUnit.StringCalculatorFormatterTest.testFormatDoubleResult.executor": "Run",
-    "JUnit.StringCalculatorFormatterTest.testFormatIntegerResult.executor": "Run",
-    "JUnit.StringCalculatorTest.executor": "Run",
-    "JUnit.StringCalculatorTest.shouldReturnOneForOne.executor": "Run",
-    "JUnit.StringCalculatorTest.shouldReturnOneForOneString.executor": "Run",
-    "JUnit.StringCalculatorTest.shouldReturnThreeForOneAndHalfPlusOneAndHalf.executor": "Run",
-    "JUnit.StringCalculatorTest.shouldReturnTwoForOnePlusOne.executor": "Run",
-    "JUnit.StringCalculatorTest.shouldReturnTwoForTwo.executor": "Run",
-    "JUnit.StringCalculatorTest.shouldReturnZeroForEmptyString.executor": "Run",
-    "JUnit.StringCalculatorTest.shouldReturnZeroForInvalidCalculation.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "full.screen.before.presentation.mode": "true",
-    "git-widget-placeholder": "FirstSteps",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/andreasschliep/code/DasScrumTeam/csd1/FirstExample",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.CalculatorApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CommandLineProcessor.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Feature: Calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Scenario: User enters real calculation with real result.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Scenario: User enters real number calculation with integer result.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Scenario: User enters simple calculation.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CommandLineTest.test.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CommandLineTest.testItHasACommandLineProcessor.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CucumberTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.StringCalculatorFormatterTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.StringCalculatorFormatterTest.testFormatDoubleResult.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.StringCalculatorFormatterTest.testFormatIntegerResult.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.StringCalculatorTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.StringCalculatorTest.shouldReturnOneForOne.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.StringCalculatorTest.shouldReturnOneForOneString.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.StringCalculatorTest.shouldReturnThreeForOneAndHalfPlusOneAndHalf.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.StringCalculatorTest.shouldReturnTwoForOnePlusOne.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.StringCalculatorTest.shouldReturnTwoForTwo.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.StringCalculatorTest.shouldReturnZeroForEmptyString.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.StringCalculatorTest.shouldReturnZeroForInvalidCalculation.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;full.screen.before.presentation.mode&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;FirstSteps&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/andreasschliep/code/DasScrumTeam/csd1/FirstExample&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.dasscrumteam.csd1.calculator" />
@@ -264,7 +264,7 @@
       <workItem from="1745654896368" duration="3279000" />
       <workItem from="1745830038888" duration="18261000" />
       <workItem from="1745923819096" duration="2416000" />
-      <workItem from="1745926578163" duration="21404000" />
+      <workItem from="1745926578163" duration="22044000" />
     </task>
     <task id="LOCAL-00001" summary="Gherkin Acceptance Test&#10;Refactoring with MVC pattern">
       <option name="closed" value="true" />
@@ -298,7 +298,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746049723844</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Gherkin Acceptance Test&#10;Refactoring with MVC pattern">
+      <option name="closed" value="true" />
+      <created>1746049865491</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1746049865491</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
